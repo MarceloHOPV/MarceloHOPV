@@ -5,9 +5,12 @@
 
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MarceloHOPV\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MarceloHOPV\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
+<div>
+  <a href="https://github.com/MarceloHOPV">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula" />
+  </a>
+</div>
 
 ---
 
