@@ -5,6 +5,7 @@
 
 </div>
 
+---
 
 - 🔭 Hoje eu trabalho com inteligência artificial
 - 🌱 Estou aprendendo sobre programação de jogos
