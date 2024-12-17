@@ -1,15 +1,16 @@
-# Olá! Eu sou o Marcelo Vilela
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=1FF777&center=true&vCenter=true&random=false&width=435&lines=Hi!+Im+Marcelo+Vilela)](https://git.io/typing-svg)
+
+</div>
+
+
 - 🔭 Hoje eu trabalho com inteligência artificial
 - 🌱 Estou aprendendo sobre programação de jogos
 - 📫 Contate-me no email: marcelo.hopv@gmail.com
 
 ---
-
-<div align="center">
-  
-  [![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1FF777&center=true&vCenter=true&random=false&width=435&lines=Hi!+Im+Victor+Boaventura](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=1FF777&center=true&vCenter=true&random=false&width=435&lines=Hi!+Im+Marcelo+Vilela))](https://git.io/typing-svg)
-
-</div>
 
 ###
 
