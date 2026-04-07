@@ -1,9 +1,7 @@
-<h1 align="center">Hi! I'm Marcelo Vilela</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1FF777&center=true&vCenter=true&width=435&lines=Hi!+I'm+Marcelo+Vilela"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1FF777&center=true&vCenter=true&width=600&lines=Hi!+I'm+Marcelo+Vilela"
       alt="Typing SVG"
     />
   </a>
@@ -11,8 +9,8 @@
 
 ---
 
-- 🔭 Hoje eu trabalho com inteligência artificial  
-- 🌱 Estou aprendendo sobre programação de jogos  
+- 💼 Atualmente trabalho na Von Braun Labs como desenvolvedor full stack, com foco em back-end e projetos com inteligência artificial  
+- 🎮 Também estou estudando e desenvolvendo projetos na área de programação de jogos  
 - 📫 Contate-me no email: [marcelo.hopv@gmail.com](mailto:marcelo.hopv@gmail.com)
 
 ---
@@ -39,6 +37,18 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarceloHOPV&layout=compact&langs_count=16&theme=dracula"
     alt="Top languages"
   />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.instagram.com/marcelo_hopv/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+      height="30"
+      alt="Instagram"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/marcelo-henrique-de-oliveira-pereira-vilela/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
