@@ -9,23 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MarceloHOPV">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=MarceloHOPV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
-      alt="GitHub stats"
-    />
-  </a>
-  <a href="https://github.com/MarceloHOPV">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloHOPV&layout=compact&langs_count=16&theme=dracula&cache_seconds=1800"
-      alt="Top languages"
-    />
-  </a>
-</p>
-
 ---
 
 - 🔭 Hoje eu trabalho com inteligência artificial  
