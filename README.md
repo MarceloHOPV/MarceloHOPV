@@ -29,13 +29,16 @@
 ---
 
 <p align="center">
-  <a href="https://www.instagram.com/marcelo_hopv/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
-      height="30"
-      alt="Instagram"
-    />
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarceloHOPV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    alt="GitHub stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarceloHOPV&layout=compact&langs_count=16&theme=dracula"
+    alt="Top languages"
+  />
   <a href="https://www.linkedin.com/in/marcelo-henrique-de-oliveira-pereira-vilela/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
