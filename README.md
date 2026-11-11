@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -9,9 +10,9 @@
 
 ---
 
-- 💼 Atualmente trabalho na Von Braun Labs como desenvolvedor full stack, com foco em back-end e projetos com inteligência artificial  
-- 🎮 Também estou estudando e desenvolvendo projetos na área de programação de jogos  
-- 📫 Contate-me no email: [marcelo.hopv@gmail.com](mailto:marcelo.hopv@gmail.com)
+- 💼 Atualmente trabalho na Von Braun Labs como desenvolvedor full stack, com foco em back-end e projetos com inteligência artificial.
+- 🎮 Também estou estudando e desenvolvendo projetos na área de programação de jogos.
+- 📫 Contate-me pelo email: [marcelo.hopv@gmail.com](mailto:marcelo.hopv@gmail.com)
 
 ---
 
@@ -28,14 +29,14 @@
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarceloHOPV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    alt="GitHub stats"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloHOPV&theme=dracula"
+    alt="GitHub Stats"
   />
   <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarceloHOPV&layout=compact&langs_count=16&theme=dracula"
-    alt="Top languages"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloHOPV&theme=dracula"
+    alt="Top Languages"
   />
 </p>
 
