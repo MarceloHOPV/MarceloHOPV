@@ -20,64 +20,38 @@
 
 ### Desenvolvimento
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=cs,cpp,java,js,python,html,css,angular,dotnet,fastapi&perline=10"
-      alt="Desenvolvimento"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,python,html,css,angular,dotnet,fastapi" />
 </p>
-
-<p align="center">
-  C#, C++, Java, JavaScript, Python, HTML, CSS, Angular, .NET / ASP.NET Core e APIs REST com .NET e Python (FastAPI)
-</p>
-
----
 
 ### AWS – infraestrutura e aplicações
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=aws&perline=1"
-      alt="AWS"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
 </p>
 
 <p align="center">
-  EC2, S3, Lambda, ECS, Fargate, Fargate Spot, EKS, API Gateway, IAM, CloudWatch, DynamoDB, Athena e Glue
+  API Gateway • IAM • Athena • Glue • Fargate • Fargate Spot
 </p>
-
----
 
 ### Bancos de dados
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=8"
-      alt="Bancos de dados"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
 </p>
-
-<p align="center">
-  PostgreSQL, MySQL, SQLite, MongoDB e SQL
-</p>
-
----
 
 ### Ferramentas e práticas
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=git,github,jira,postman,cypress,unity&perline=8"
-      alt="Ferramentas"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,jira,postman,cypress,unity" />
 </p>
 
 <p align="center">
-  Git, GitHub, Jira, Confluence, Scrum, Postman, Cypress e Unity
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
