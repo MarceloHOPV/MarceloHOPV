@@ -16,13 +16,68 @@
 
 ---
 
+## 🚀 Tecnologias e Ferramentas
+
+### Desenvolvimento
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,postman,cypress,unity,mysql,cs,cpp,java,python,js,ts,html,css&perline=9"
-      alt="Tech stack"
+      src="https://skillicons.dev/icons?i=cs,cpp,java,js,python,html,css,angular,dotnet,fastapi&perline=10"
+      alt="Desenvolvimento"
     />
   </a>
+</p>
+
+<p align="center">
+  C#, C++, Java, JavaScript, Python, HTML, CSS, Angular, .NET / ASP.NET Core e APIs REST com .NET e Python (FastAPI)
+</p>
+
+---
+
+### AWS – infraestrutura e aplicações
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=aws&perline=1"
+      alt="AWS"
+    />
+  </a>
+</p>
+
+<p align="center">
+  EC2, S3, Lambda, ECS, Fargate, Fargate Spot, EKS, API Gateway, IAM, CloudWatch, DynamoDB, Athena e Glue
+</p>
+
+---
+
+### Bancos de dados
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=8"
+      alt="Bancos de dados"
+    />
+  </a>
+</p>
+
+<p align="center">
+  PostgreSQL, MySQL, SQLite, MongoDB e SQL
+</p>
+
+---
+
+### Ferramentas e práticas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=git,github,jira,postman,cypress,unity&perline=8"
+      alt="Ferramentas"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Git, GitHub, Jira, Confluence, Scrum, Postman, Cypress e Unity
 </p>
 
 ---
